@@ -1,0 +1,62 @@
+body {
+  background-color: black;
+  color: red;
+  font-family: sans-serif;
+  cursor: url(img/cursor.cur), default;
+}
+
+img.oi {
+  height: 100px;
+  width: 100%;
+}
+
+img.hell {
+  width: 400px;
+  height: 150px;
+}
+
+img.ai {
+  width: 200px;
+  height: 200px;
+}
+
+footer {
+  position: relative;
+  padding-top: 5%;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+}
+
+h1.kk {
+  display: inline;
+}
+
+a {
+  display: block;
+  cursor: url(img/cursor.cur), default;
+}
+
+a.kk {
+  display: inline;
+  text-decoration: none;
+  cursor: url(img/cursor.cur), default;
+}
+
+div.fim {
+  padding-top: 5%;
+}
+
+div.rick {
+  padding-top: 5%;
+}
+
+img.rick {
+  width: 300px;
+  height: 200px;
+}
+
+h2.fim {
+  padding-top: 10%;
+  color: white;
+}
